@@ -1,0 +1,15 @@
+H:\Whinchester\FABIO\CD\DICAS\VB.NET\Easter Eggs\EasterEgg\bin\Debug\EasterEgg.exe.config
+H:\Whinchester\FABIO\CD\DICAS\VB.NET\Easter Eggs\EasterEgg\bin\Debug\EasterEgg.exe
+H:\Whinchester\FABIO\CD\DICAS\VB.NET\Easter Eggs\EasterEgg\bin\Debug\EasterEgg.pdb
+H:\Whinchester\FABIO\CD\DICAS\VB.NET\Easter Eggs\EasterEgg\bin\Debug\EasterEgg.xml
+H:\Whinchester\FABIO\CD\DICAS\VB.NET\Easter Eggs\EasterEgg\obj\Debug\EasterEgg.vbprojResolveAssemblyReference.cache
+H:\Whinchester\FABIO\CD\DICAS\VB.NET\Easter Eggs\EasterEgg\obj\Debug\EasterEgg.frmSolucao1.resources
+H:\Whinchester\FABIO\CD\DICAS\VB.NET\Easter Eggs\EasterEgg\obj\Debug\EasterEgg.frmSolucao2.resources
+H:\Whinchester\FABIO\CD\DICAS\VB.NET\Easter Eggs\EasterEgg\obj\Debug\EasterEgg.frmSolucao3.resources
+H:\Whinchester\FABIO\CD\DICAS\VB.NET\Easter Eggs\EasterEgg\obj\Debug\EasterEgg.frmSolucao4.resources
+H:\Whinchester\FABIO\CD\DICAS\VB.NET\Easter Eggs\EasterEgg\obj\Debug\EasterEgg.mdiEasterEgg.resources
+H:\Whinchester\FABIO\CD\DICAS\VB.NET\Easter Eggs\EasterEgg\obj\Debug\EasterEgg.Resources.resources
+H:\Whinchester\FABIO\CD\DICAS\VB.NET\Easter Eggs\EasterEgg\obj\Debug\EasterEgg.vbproj.GenerateResource.Cache
+H:\Whinchester\FABIO\CD\DICAS\VB.NET\Easter Eggs\EasterEgg\obj\Debug\EasterEgg.exe
+H:\Whinchester\FABIO\CD\DICAS\VB.NET\Easter Eggs\EasterEgg\obj\Debug\EasterEgg.xml
+H:\Whinchester\FABIO\CD\DICAS\VB.NET\Easter Eggs\EasterEgg\obj\Debug\EasterEgg.pdb

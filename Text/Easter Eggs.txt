@@ -1,0 +1,15 @@
+'http://vbdotnetforum.com/index.php?/topic/44-easter-egg/
+
+Private Sub Form_KeyDown(KeyCode As Integer, Shift As Integer)   
+Dim ShiftMask As Boolean   
+Dim CtlMask As Boolean   
+Dim s_Mask As Boolean   
+
+ShiftMask = (Shift And vbShiftMask) > 0   
+CtlMask = (KeyCode And vbCtrlMask) > 0      
+
+If ShiftMask = True And CtlMask = True And KeyCode = vbKeyS Then           
+	MsgBox "Easter Egg", , "Easter Egg"   
+End If
+
+End Sub
